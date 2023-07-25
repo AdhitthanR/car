@@ -1,0 +1,123 @@
+.Main
+{
+    background-color: rgb(238, 46, 46);
+    width:500px;
+    height:680px;
+    transform: translateY(20px);
+}
+.car img
+{
+    /* border: 2px solid ; */
+    width:480px;
+    height:250px;
+    transform: translateY(10px);
+}
+.det
+{
+    background-color: rgb(0, 185, 34);
+    height: 410px;
+    width: 480px;
+    transform:translateY(-15px);
+}
+h2
+{
+    transform:translateY(10px)translateX(-200px);
+    color: aliceblue;
+    background-color: red;
+    width: 50px;
+    border-radius:10px;
+}
+h1
+{
+    color: aliceblue;
+    transform:translateX(-80px);
+}
+h5
+{
+    transform:translateX(-140px);
+    color: aliceblue;
+}
+h5 img
+{
+  width:15px;
+}
+.det1
+{
+    /* background-color: rgb(35, 18, 158); */
+    transform: translateY(10px);
+    height:350px;
+}
+#l1
+{
+    margin-left:-60px;
+}
+#l2
+{
+    margin-left:-15px;
+}
+#l3
+{
+    margin-left:-45px;
+}
+#l4
+{
+    margin-left:-60px;
+}
+.p2
+{
+   /* background-color: aliceblue;  */
+   width: 200px;
+   height:60px;
+   display:flex;
+   align-items:center;
+   justify-content: space-around;
+   transform:translateX(-110px)translateY(-10px);
+}
+.b1
+{
+    background-color:red;
+    width:40px;
+    height: 40px;
+    border-radius: 50px;
+}
+.b2
+{
+    background-color:black;
+    width:40px;
+    height: 40px;
+    border-radius: 50px;
+}
+.b3
+{
+    background-color:rgb(77, 69, 69);
+    width:40px;
+    height: 40px;
+    border-radius: 50px;
+}
+.pr
+{
+    /* background-color:rgb(180, 22, 22); */
+    width:180px;
+    height: 40px;
+    transform: translateX(120px)translateY(-85px);
+}
+h3
+{
+    font-size: 25px;
+    color: aliceblue;
+    width:200px;
+    transform:translateX(-50px)translateY(5px);
+}
+h4
+{
+   color: aliceblue;
+   transform: translateX(40px)translateY(-47px);
+   font-size: 20px;
+
+}
+.ad button
+{
+    width: 200px;
+    height: 40px;
+    transform:translateY(-50px)translateX(-120px) ;
+}
